@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="StarRace">
+    <output-path>$PROJECT_DIR$/out/artifacts/StarRace</output-path>
+    <root id="archive" name="StarRace.jar">
+      <element id="module-output" name="JTPProjekt" />
+    </root>
+  </artifact>
+</component>
